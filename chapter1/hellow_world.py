@@ -1,1 +1,1 @@
-__author__ = 'relli_000'
+print('Hello Python World!')
